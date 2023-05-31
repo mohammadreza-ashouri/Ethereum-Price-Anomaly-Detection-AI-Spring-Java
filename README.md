@@ -1,6 +1,6 @@
 # Ethereum Price Anomaly Detector
 
-Hi there fellow coders! 😃 I'm Mo Ashouri (you can contact me at ashourics@gmail.com), and this is a little project I've been workin' on.
+Hi there fellow coders! 😃 I'm Mo (you can contact me at ashourics@gmail.com), and this is a little project I've been workin' on.
 
 ## What's this thing for?
 It's a simple app built with Spring Boot in Java. It fetches the current Ethereum price from Coingecko's API and checks for any anomaly in the price changes. Pretty handy, right? 😎
