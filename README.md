@@ -26,6 +26,7 @@ git clone https://github.com/<username>/ethereum-price-anomaly-detector.git
 3. Navigate to the project directory:
 
 ```cd ethereum-price-anomaly-detector```
+
 4. Run the project with Maven:
 
 ```mvn spring-boot:run```
