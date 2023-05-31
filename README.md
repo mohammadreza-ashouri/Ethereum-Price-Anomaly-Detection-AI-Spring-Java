@@ -35,11 +35,10 @@ git clone https://github.com/<username>/ethereum-price-anomaly-detector.git
 
 Remember, this is a simple project and there's plenty of room for improvement. You can add more features, switch to a different DB, use a different API for fetching the Ethereum price, refine the anomaly detection algorithm, and so on. Happy coding, everyone! 🚀
 
-(And yeah, you might find some typos in this README, sorry about that 😅 I'm too excited about coding to worry about perfect spelling lol)
 
 ---
 
 Contact me at ashourics@gmail.com if you've got any questions or suggestions. Happy to help out!
 
-Mo Ashouri
+Mo 
 
